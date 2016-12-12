@@ -5,7 +5,7 @@ import {Injectable} from "@angular/core";
 import {Http, Response} from "@angular/http";
 import {Observable} from "rxjs";
 import {NavController} from "ionic-angular";
-import {BASE_API} from "../Ultils/Constant";
+import {BASE_API} from "../ultils/Constant";
 import {RootObject} from "../models/API";
 
 @Injectable()
